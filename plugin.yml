@@ -1,0 +1,6 @@
+name: ServerCore-ScoreboardAddon
+author: Ehrengames-Development
+version: 1.0
+main: org.ehrengames.scoreboardaddon.main.Main
+api-version: 1.16
+load: POSTWORLD
